@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for simple-web-app-using-fly-aj2 on 2024-04-22T16:44:22+01:00
+# fly.toml app configuration file generated for simple-web-app-using-fly-aj2-crimson-flower-7861 on 2024-04-22T17:05:50+01:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'simple-web-app-using-fly-aj2'
+app = 'simple-web-app-using-fly-aj2-crimson-flower-7861'
 primary_region = 'lhr'
 
 [build]
